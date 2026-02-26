@@ -19,6 +19,4 @@ Performance comparison of various data selection methods. “Offline” and “O
 
 <img width="896" height="645" alt="image" src="https://github.com/user-attachments/assets/5d6f9ecd-923f-419b-8953-651b57a30768" />
 
-## 🚀 Quick Start
-
 
